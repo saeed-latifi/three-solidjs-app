@@ -28,7 +28,7 @@ const ThreeScene = () => {
       0.1,
       1000
     );
-    camera.position.set(2, 2, 2);
+    camera.position.set(25, 25, 25);
 
     // Renderer
     renderer = new THREE.WebGLRenderer({ antialias: true });
